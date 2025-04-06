@@ -15,7 +15,7 @@
   "width": "Width",
   "projection": "Projection",
   "fabric_color": "Fabric color",
-  "column_color": "Column color",
+  "pergola_color": "Pergola color",
   "other_color": "Other color",
   "extra_components": "Extra components:",
   "lights": "Lights",
@@ -27,5 +27,6 @@
   "perimeter": "Perimeter",
   "standard_lights": "Standard lights",
   "lux_lights": "Lux lights",
-  "total": "Total:"
+  "total": "Total:",
+  "with_tax": "Price including VAT:"
 }

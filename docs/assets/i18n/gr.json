@@ -15,7 +15,7 @@
   "width": "Πλάτος",
   "projection": "Προβολή",
   "fabric_color": "Χρώμα υφάσματος",
-  "column_color": "Χρώμα κολώνας",
+  "pergola_color": "Χρώμα πέργκολας",
   "other_color": "Άλλο χρώμα",
   "extra_components": "Επιπλέον εξαρτήματα:",
   "lights": "Φώτα",
@@ -27,5 +27,6 @@
   "perimeter": "Περιμετρικά",
   "standard_lights": "Απλά φώτα",
   "lux_lights": "Φώτα Lux",
-  "total": "Σύνολο:"
+  "total": "Σύνολο:",
+  "with_tax": "Σύνολο με ΦΠΑ:"
 }
