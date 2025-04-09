@@ -24,8 +24,10 @@
   "lights_type": "Τύπος φωτισμού",
   "yes": "Ναι",
   "no": "Όχι",
-  "perimeter_lights": "Περιμετρικά φώτα",
+  "perimeter_lights": "Περιμετρικά φώτα με dimmer",
   "standard_lights": "Απλά φώτα",
   "lux_lights": "Φώτα Lux",
-  "with_tax": "Σύνολο με ΦΠΑ:"
+  "with_tax": "Σύνολο με ΦΠΑ:",
+  "number_of_columns": "Αριθμός κολόνων",
+  "column_tooltip_text": "Συνιστούμε 2 κολώνες σε περίπτωση στήριξης τοίχου και 4 κολώνες για ελεύθερη στήριξη."
 }

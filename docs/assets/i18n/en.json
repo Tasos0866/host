@@ -24,8 +24,10 @@
   "lights_type": "Type of lights",
   "yes": "Yes",
   "no": "No",
-  "perimeter_lights": "Perimeter lights",
+  "perimeter_lights": "Perimeter lights with dimmer",
   "standard_lights": "Standard lights",
   "lux_lights": "Lux lights",
-  "with_tax": "Total inc. Tax:"
+  "with_tax": "Total inc. Tax:",
+  "number_of_columns": "Number of columns",
+  "column_tooltip_text": "We recommend 2 columns in case of wall support and 4 columns for free standing."
 }
