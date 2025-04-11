@@ -29,5 +29,15 @@
   "lux_lights": "Lux lights",
   "with_tax": "Total inc. Tax:",
   "number_of_columns": "Number of columns",
-  "column_tooltip_text": "We recommend 2 columns in case of wall support and 4 columns for free standing."
+  "column_tooltip_text": "We recommend 2 columns in case of wall support and 4 columns for free standing.",
+  "with_struts": "With struts",
+  "with_folding_arms": "With folding arms",
+  "type_vertical": "Vertical",
+  "type_windows": "For windows",
+  "type_fabric_change": "Fabric change",
+  "struts_title": "Awning with struts",
+  "folding_arms_title": "Awning with folding arms",
+  "vertical_title": "Vertical awning",
+  "windows_title": "Window awning",
+  "fabric_change_title": "Fabric change"
 }

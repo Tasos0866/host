@@ -29,5 +29,15 @@
   "lux_lights": "Φώτα Lux",
   "with_tax": "Σύνολο με ΦΠΑ:",
   "number_of_columns": "Αριθμός κολόνων",
-  "column_tooltip_text": "Συνιστούμε 2 κολώνες σε περίπτωση στήριξης τοίχου και 4 κολώνες για ελεύθερη στήριξη."
+  "column_tooltip_text": "Συνιστούμε 2 κολώνες σε περίπτωση στήριξης τοίχου και 4 κολώνες για ελεύθερη στήριξη.",
+  "with_struts": "Με αντηρίδες",
+  "with_folding_arms": "Με βραχίονες",
+  "type_vertical": "Κάθετη",
+  "type_windows": "Για παράθυρα",
+  "type_fabric_change": "Αλλαγή υφάσματος",
+  "struts_title": "Τέντα με αντηρίδες",
+  "folding_arms_title": "Τέντα με βραχίονες",
+  "vertical_title": "Κάθετη τέντα",
+  "windows_title": "Τέντα για παράθυρα",
+  "fabric_change_title": "Αλλαγή υφάσματος"
 }
