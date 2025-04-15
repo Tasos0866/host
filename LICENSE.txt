@@ -1,0 +1,14 @@
+Proprietary License
+
+Copyright © 2025 Anastasios Tsoukalas Stathakis (Tasos0866). All rights reserved. 
+
+This software is proprietary and confidential. Unauthorized copying, modification, distribution, or use is strictly prohibited.
+
+The software may only be used by individuals or entities who have purchased a valid license directly from the author. Any unauthorized use is a violation of copyright law and subject to legal action.
+
+You may not:
+- Reverse-engineer, decompile, disassemble, or attempt to derive the source code.
+- Use any part of the code or assets in your own projects or products.
+- Redistribute, resell, or share this software with others.
+
+To obtain a commercial license or inquire about usage rights, contact: tasostsouk.tt2@gmail.com.
