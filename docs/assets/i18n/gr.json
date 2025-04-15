@@ -27,8 +27,8 @@
   "yes": "Ναι",
   "no": "Όχι",
   "perimeter_lights": "Περιμετρικά φώτα με dimmer",
-  "standard_lights": "Απλά φώτα",
-  "lux_lights": "Φώτα Lux",
+  "standard_lights": "Απλά φώτα on/off",
+  "lux_lights": "Φώτα Lux Dimmer",
   "parapet_type": "Τύπος στηθαίου:",
   "aluminium_parapet": "Στηθαίο Αλουμινίου με ενσωματωμένη Υδρορροή",
   "metal_parapet": "Στηθαίο μεταλλικό 80x80 βαμμένο (χωρίς Υδρορροή)",
@@ -46,5 +46,7 @@
   "folding_arms_title": "Τέντα με βραχίονες",
   "vertical_title": "Κάθετη τέντα",
   "windows_title": "Τέντα για παράθυρα",
-  "fabric_change_title": "Αλλαγή υφάσματος"
+  "fabric_change_title": "Αλλαγή υφάσματος",
+  "other_pergola_color_message": "Η επιλογή 'Άλλο χρώμα' αυξάνει το κόστος κατά 10%.",
+  "close": "Κλείσιμο"
 }

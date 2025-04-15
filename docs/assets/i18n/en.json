@@ -18,7 +18,7 @@
   "pergola_color": "Pergola color",
   "other_color": "Other color",
   "front_support": "Front support:",
-    "front_support_tooltip_text": "In case of installation on an existing structure, it is not needed. For questions regarding your project, please feel free to contact us.",
+  "front_support_tooltip_text": "In case of installation on an existing structure, it is not needed. For questions regarding your project, please feel free to contact us.",
   "extra_components": "Extra components:",
   "lights": "Lights",
   "parapet": "Parapet",
@@ -27,8 +27,8 @@
   "yes": "Yes",
   "no": "No",
   "perimeter_lights": "Perimeter lights with dimmer",
-  "standard_lights": "Standard lights",
-  "lux_lights": "Lux lights",
+  "standard_lights": "Standard lights on/off",
+  "lux_lights": "Lux lights Dimmer",
   "parapet_type": "Parapet type:",
   "aluminium_parapet": "Aluminium parapet with integrated gutter",
   "metal_parapet": "Metal parapet 80x80 painted (without gutter)",
@@ -46,5 +46,7 @@
   "folding_arms_title": "Awning with folding arms",
   "vertical_title": "Vertical awning",
   "windows_title": "Window awning",
-  "fabric_change_title": "Fabric change"
+  "fabric_change_title": "Fabric change",
+  "other_pergola_color_message": "Choosing 'Other color' increases costs by 10%.",
+  "close": "Close"
 }
