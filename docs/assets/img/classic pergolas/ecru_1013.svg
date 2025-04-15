@@ -49,7 +49,7 @@
     <path
        style="fill:#dad8ad;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 603.91465,269.72155 -1.7827,17.23232 598.36385,-122.23194 0.4202,-2.73114 L 794.06435,50.752289 158.73405,115.67059 Z"
-       id="path_fabric"
+       id="fabric_path"
        inkscape:label="fabric" />
   </g>
 </svg>
