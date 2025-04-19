@@ -13,6 +13,7 @@
   "hanging_pergola": "Hanging Pergola",
   "flat_pergola": "Flat Pergola",
   "width": "Width",
+  "height": "Height",
   "projection": "Projection",
   "fabric_color": "Fabric color",
   "pergola_color": "Pergola color",
@@ -48,5 +49,16 @@
   "windows_title": "Window awning",
   "fabric_change_title": "Fabric change",
   "other_pergola_color_message": "Choosing 'Other color' increases costs by 10%.",
-  "close": "Close"
+  "close": "Close",
+  "fabric": "Fabric",
+  "fabric_names": {
+    "Ten Cate Ecru": "Ten Cate Ecru",
+    "Ten Cate Print": "Ten Cate Print",
+    "Das Ecru": "Das Ecru",
+    "Das Print": "Das Print",
+    "Calbari Ecru": "Calbari Ecru",
+    "Calbari Print": "Calbari Print",
+    "Dikson Acrylic": "Dikson Acrylic",
+    "Discounted": "Discounted"
+  }
 }

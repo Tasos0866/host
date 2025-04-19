@@ -13,6 +13,7 @@
   "hanging_pergola": "Κρεμαστή πέργκολα",
   "flat_pergola": "Flat Pergola",
   "width": "Πλάτος",
+  "height": "Ύψος",
   "projection": "Προβολή",
   "fabric_color": "Χρώμα υφάσματος",
   "pergola_color": "Χρώμα πέργκολας",
@@ -48,5 +49,16 @@
   "windows_title": "Τέντα για παράθυρα",
   "fabric_change_title": "Αλλαγή υφάσματος",
   "other_pergola_color_message": "Η επιλογή 'Άλλο χρώμα' αυξάνει το κόστος κατά 10%.",
-  "close": "Κλείσιμο"
+  "close": "Κλείσιμο",
+  "fabric": "Ύφασμα",
+  "fabric_names": {
+    "Ten Cate Ecru": "Ten Cate Ολλανδικό Εκρού",
+    "Ten Cate Print": "Ten Cate Ολλανδικό Εμπριμέ",
+    "Das Ecru": "Das Εκρού",
+    "Das Print": "Das Εμπριμέ",
+    "Calbari Ecru": "Calbari Εκρού",
+    "Calbari Print": "Calbari Εμπριμέ",
+    "Dikson Acrylic": "Dikson Ακρυλικό",
+    "Discounted": "Προσφοράς"
+  }
 }
