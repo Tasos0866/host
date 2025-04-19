@@ -60,5 +60,7 @@
     "Calbari Print": "Calbari Print",
     "Dikson Acrylic": "Dikson Acrylic",
     "Discounted": "Discounted"
-  }
+  },
+  "fabric_m2": "Square meters of fabric",
+  "price_per_m2": "Price per square meter"
 }
