@@ -65,5 +65,6 @@
   "price_per_m2": "Price per square meter",
   "material": "Material:",
   "PVC": "PVC",
-  "Fabric": "Fabric"
+  "Fabric": "Fabric",
+  "number_of_arms": "Number of arms"
 }

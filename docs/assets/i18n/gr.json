@@ -65,5 +65,6 @@
   "price_per_m2": "Τιμή ανα τ.μ.",
   "material": "Υλικό:",
   "PVC": "PVC",
-  "Fabric": "Ύφασμα"
+  "Fabric": "Ύφασμα",
+  "number_of_arms": "Αριθμός βραχιόνων"
 }
