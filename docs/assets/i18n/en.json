@@ -66,5 +66,7 @@
   "material": "Material:",
   "PVC": "PVC",
   "Fabric": "Fabric",
-  "number_of_arms": "Number of arms"
+  "quantity": "Quantity",
+  "arm_type": "Arm type",
+  "price_per_arm": "Price per arm"
 }

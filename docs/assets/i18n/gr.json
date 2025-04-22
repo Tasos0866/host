@@ -66,5 +66,7 @@
   "material": "Υλικό:",
   "PVC": "PVC",
   "Fabric": "Ύφασμα",
-  "number_of_arms": "Αριθμός βραχιόνων"
+  "quantity": "Ποσότητα",
+  "arm_type": "Τύπος Βραχίονα",
+  "price_per_arm": "Τιμή ανά βραχίονα"
 }
