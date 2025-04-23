@@ -68,5 +68,13 @@
   "Fabric": "Fabric",
   "quantity": "Quantity",
   "arm_type": "Arm type",
-  "price_per_arm": "Price per arm"
+  "price_per_arm": "Price per arm",
+  "counterweight_tooltip_text": "If no Aluminium Counterweight is selected, a pipe with diameter 33mm is used.",
+  "aluminum_counterweight": "Aluminium Counterweight",
+  "counter_weight": "Counterweight",
+  "counterweight": {
+    "Standard": "Standard",
+    "Jumbo": "Jumbo",
+    "Hercules": "Hercules"
+  }
 }
