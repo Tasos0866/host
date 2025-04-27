@@ -68,7 +68,7 @@
   "Fabric": "Ύφασμα",
   "quantity": "Ποσότητα",
   "arm_type": "Τύπος Βραχίονα",
-  "price_per_arm": "Τιμή ανά βραχίονα",
+  "price_per_arm": "Τιμή βραχίονα",
   "counterweight_tooltip_text": "Σε περίπτωση μη επιλογής Αντίβαρο Αλουμινίου, χρησιμοποιείται σωλήνα Φ33.",
   "aluminum_counterweight": "Αντίβαρο Αλουμινίου",
   "counter_weight": "Αντίβαρο",
@@ -76,5 +76,15 @@
     "Standard": "Standard",
     "Jumbo": "Jumbo",
     "Hercules": "Ηρακλής"
+  },
+  "motor": "Μοτέρ",
+  "aluminium_cover": "Σκέπαστρο αλουμινίου",
+  "air_sensor": "Αισθητήρας αέρα",
+  "shockproof": "Αντικραδασμικό",
+  "windsock": "Ανεμούριο",
+  "components_painting": "Βαφή εξαρτημάτων",
+  "paint": {
+    "white": "Λευκό (χωρίς επιπλέον κόστος)",
+    "other": "Άλλο χρώμα (+20%) επι των εξαρτημάτων (Αντίβαρο, Βραχίονες)"
   }
 }
