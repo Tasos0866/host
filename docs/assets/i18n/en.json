@@ -88,5 +88,10 @@
     "white": "White (no extra cost)",
     "other": "Other color (+20%) on components (Counterweight, Arms)"
   },
-  "motor_radio_title": "Motor:"
+  "motor_radio_title": "Motor:",
+  "awning_repair": "Awning repair",
+  "repair_type": "Repair type",
+  "fabric_sewing": "Fabric sewing",
+  "motor_repair": "Motor repair",
+  "both": "Both"
 }
