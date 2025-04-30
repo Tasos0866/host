@@ -58,7 +58,7 @@
     "Das Print": "Das Εμπριμέ",
     "Calbari Ecru": "Calbari Εκρού",
     "Calbari Print": "Calbari Εμπριμέ",
-    "Dikson Acrylic": "Dikson Ακρυλικό",
+    "Dickson Acrylic": "Dickson - Para Ακρυλικό",
     "Discounted": "Προσφοράς"
   },
   "fabric_m2": "Tετραγωνικά μέτρα υφάσματος",
@@ -77,7 +77,7 @@
     "Jumbo": "Jumbo",
     "Hercules": "Ηρακλής"
   },
-  "motor": "Μοτέρ",
+  "motor": "Ηλεκτροκίνηση",
   "aluminium_cover": "Στέγαστρο αλουμινίου",
   "aluminium_cover_tooltip": "Στέγαστρο αλουμινίου (Για τοποθέτηση σε τοίχο και προστασία της τέντας απο βροχή)",
   "air_sensor": "Αισθητήρας αέρα",
@@ -88,10 +88,10 @@
     "white": "Λευκό (χωρίς επιπλέον κόστος)",
     "other": "Άλλο χρώμα (+20%) επι των εξαρτημάτων (Αντίβαρο, Βραχίονες)"
   },
-  "motor_radio_title": "Μοτέρ:",
+  "motor_radio_title": "Ηλεκτροκίνηση:",
   "awning_repair": "Επισκευή τέντας",
   "repair_type": "Τύπος επισκευής",
   "fabric_sewing": "Ράψιμο υφάσματος",
-  "motor_repair": "Επισκευή μοτέρ",
+  "motor_repair": "Επισκευή μηχανισμού",
   "both": "Και τα δύο"
 }
