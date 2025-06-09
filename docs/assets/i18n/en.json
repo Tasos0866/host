@@ -77,7 +77,7 @@
     "other_color": "Other color"
   },
   "fabric_m2": "Square meters of fabric",
-  "price_per_m2": "Price per square meter",
+  "price_per_m2": "Price per m²",
   "material": "Material:",
   "PVC": "PVC",
   "Fabric": "Fabric",
@@ -92,6 +92,7 @@
     "Jumbo": "Jumbo",
     "Hercules": "Hercules"
   },
+  "no_motor": "No motor",
   "motor": "Electric motor",
   "aluminium_cover": "Aluminium cover",
   "aluminium_cover_tooltip": "Aluminium cover (For wall installation and protection of the awning from rain)",
@@ -103,7 +104,7 @@
     "white": "White (no extra cost)",
     "other": "Other color (+20%) on components (Counterweight, Arms)"
   },
-  "motor_radio_title": "Electric motor",
+  "electric_motor": "Electric motor",
   "awning_repair": "Awning repair",
   "repair_type": "Repair type",
   "fabric_sewing": "Fabric sewing",
