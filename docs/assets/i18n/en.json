@@ -99,7 +99,7 @@
   "air_sensor": "Air sensor",
   "shockproof": "Shockproof",
   "windsock": "Windsock",
-  "components_painting": "Components painting",
+  "component_painting": "Component painting",
   "paint": {
     "white": "White (no extra cost)",
     "other": "Other color (+20%) on components (Counterweight, Arms)"
