@@ -1,9 +1,10 @@
 {
   "go_back": "go back",
   "welcome": "Welcome!",
+  "main_menu_title": "For what service do you want to request a quote?",
   "quote": "Request a quote for:",
-  "sunAwnings": "Sun Awnings",
-  "pergolas": "Pergolas",
+  "sun_awnings_menu_title": "What kind of sun awning are you looking for?",
+  "pergolas_menu_title": "What kind of pergola are you looking for?",
   "repair": "Repair",
   "pergolas:": "Pergolas",
   "select_type": "Select type:",
