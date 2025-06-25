@@ -79,6 +79,16 @@
     "White 9016": "White",
     "other_color": "Other color"
   },
+  "fabric_colors": {
+    "ecru_260": "Ecru",
+    "white_114": "White",
+    "light_grey_833": "Light grey",
+    "grey_7019": "Grey",
+    "mocha_739": "Brown mocha",
+    "black_9005": "Black",
+    "brown_grey_mosaic_7510": "Brown gray mosaic",
+    "green_ecru_632": "Green ecru"
+  },
   "fabric_m2": "Square meters of fabric",
   "price_per_m2": "Price per m²",
   "material": "Material",
@@ -117,5 +127,10 @@
   "fabric_sewing": "Fabric sewing",
   "motor_repair": "Motor repair",
   "both": "Both",
-  "get_in_touch": "Get in touch"
+  "get_in_touch": "Get in touch",
+  "greek_flag": "Greek Flag",
+  "english_flag": "English Flag",
+  "switch_language_gr": "Switch to Greek language",
+  "switch_language_en": "Switch to English language",
+  "redirect_main_page": "Redirect to our main website"
 }
