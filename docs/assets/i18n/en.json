@@ -98,10 +98,10 @@
   "arm_type": "Arm type",
   "price_per_arm": "Price per arm",
   "price": "Price",
-  "counterweight_tooltip_text": "If no aluminium counterweight is selected, a pipe with diameter 33mm is used.",
-  "aluminum_counterweight": "Aluminium counterweight",
-  "no_counterweight": "No counterweight",
-  "counter_weight": "Counterweight",
+  "front_bar_tooltip_text": "If no aluminium front bar is selected, a pipe with diameter 33mm is used.",
+  "aluminum_front_bar": "Aluminium front bar",
+  "no_front_bar": "No front bar",
+  "front_bar": "Front bar",
   "counterweight": {
     "Standard": "Standard",
     "Jumbo": "Jumbo",
@@ -112,14 +112,14 @@
   "aluminium_cover": "Aluminium cover",
   "no_aluminium_cover": "No cover",
   "aluminium_cover_tooltip": "Aluminium cover (For wall installation and protection of the awning from rain)",
-  "no_air_sensor": "No air sensor",
-  "air_sensor": "Air sensor",
+  "no_wind_sensor": "No wind sensor",
+  "wind_sensor": "Wind sensor",
   "shockproof": "Shockproof",
   "windsock": "Windsock",
   "component_painting": "Component painting",
   "paint": {
     "white": "White (no extra cost)",
-    "other": "Other color (+20% on Counterweight, Arms)"
+    "other": "Other color (+20% on Front bar, Arms)"
   },
   "electric_motor": "Electric motor",
   "awning_repair": "Awning repair",
