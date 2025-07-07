@@ -67,7 +67,7 @@
     "Calbari Ecru": "Calbari Ecru",
     "Calbari Print": "Calbari Print",
     "Dickson Acrylic": "Dickson - Para Acrylic",
-    "Discounted": "Discounted"
+    "Discounted": "Special offer"
   },
   "pergola_colors": {
     "Ecru 1013": "Ecru",
@@ -112,14 +112,14 @@
   "aluminium_cover": "Aluminium cover",
   "no_aluminium_cover": "No cover",
   "aluminium_cover_tooltip": "Aluminium cover (For wall installation and protection of the awning from rain)",
-  "no_wind_sensor": "No wind sensor",
-  "wind_sensor": "Wind sensor",
-  "shockproof": "Shockproof",
-  "windsock": "Windsock",
+  "no_wind_sensor": "No weather sensor",
+  "wind_sensor": "Weather sensor",
+  "shockproof": "Shock sensor",
+  "windsock": "Wind sensor",
   "component_painting": "Component painting",
   "paint": {
-    "white": "White (no extra cost)",
-    "other": "Other color (+20% on Front bar, Arms)"
+    "white": "White (standard)",
+    "other": "Other color (+15% on base price)"
   },
   "electric_motor": "Electric motor",
   "awning_repair": "Awning repair",
