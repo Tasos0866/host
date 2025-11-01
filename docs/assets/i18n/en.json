@@ -46,6 +46,8 @@
   "total": "Total:",
   "number_of_columns": "Number of columns",
   "column_tooltip_text": "The Flat Pergola can be installed in the following ways:\n- Freestanding, with a minimum of four (4) columns.\n- Wall-mounted, with two (2) front columns.\n- Without columns, if mounted on an existing structure.\n\nFor questions regarding your project, please feel free to contact us.",
+  "bioclimatic_column_tooltip_text": "The Bioclimatic Pergola can be installed in the following ways:\n- Freestanding, with a minimum of four (4) columns.\n- Wall-mounted, with two (2) front columns.\n- Without columns, if mounted on an existing structure.\n\nFor questions regarding your project, please feel free to contact us.",
+  "opensky_column_tooltip_text": "The Open Sky Pergola can be installed in the following ways:\n- Freestanding, with a minimum of four (4) columns.\n- Wall-mounted, with two (2) front columns.\n- Without columns, if mounted on an existing structure.\n\nFor questions regarding your project, please feel free to contact us.",
   "with_struts": "With struts",
   "with_folding_arms": "With folding arms",
   "type_vertical": "Vertical",
@@ -132,5 +134,12 @@
   "english_flag": "English Flag",
   "switch_language_gr": "Switch to Greek language",
   "switch_language_en": "Switch to English language",
-  "redirect_main_page": "Redirect to our main website"
+  "redirect_main_page": "Redirect to our main website",
+  "bioclimatic": "Bioclimatic",
+  "bioclimatic_pergola": "Bioclimatic pergola",
+  "open_sky": "Open Sky",
+  "open_sky_pergola": "Open Sky pergola",
+  "balloon_pergola": "Balloon pergola",
+  "balloon": "Balloon",
+  "select_electric_motor": "Select electric motor"
 }
