@@ -41,7 +41,7 @@
   "parapet_type": "Parapet type:",
   "aluminium_parapet": "Aluminium parapet with gutter",
   "metal_parapet": "Metal parapet no gutter",
-  "including_tax": "incl. €{{tax}} VAT",
+  "with_tax": "inc. tax",
   "tax": "Tax:",
   "total": "Total:",
   "number_of_columns": "Number of columns",
