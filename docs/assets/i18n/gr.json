@@ -41,7 +41,7 @@
   "parapet_type": "Τύπος στηθαίου:",
   "aluminium_parapet": "Στηθαίο Αλουμινίου με Υδρορροή",
   "metal_parapet": "Στηθαίο μεταλλικό χωρίς Υδρορροή",
-  "with_tax": "με ΦΠΑ",
+  "including_tax": "συμπ. €{{tax}} ΦΠΑ",
   "tax": "ΦΠΑ:",
   "total": "Σύνολο:",
   "number_of_columns": "Αριθμός κολόνων",
@@ -104,7 +104,7 @@
   "price": "Τιμή",
   "front_bar_tooltip_text": "Σε περίπτωση μη επιλογής Αντίβαρο αλουμινίου, χρησιμοποιείται σωλήνα Φ33.",
   "aluminum_front_bar": "Αντίβαρο αλουμινίου",
-  "no_front_bar" : "Χωρίς αντίβαρο",
+  "no_front_bar": "Χωρίς αντίβαρο",
   "front_bar": "Αντίβαρο",
   "counterweight": {
     "Standard": "Standard",
